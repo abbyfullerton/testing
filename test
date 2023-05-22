@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+    <style>
+        body {
+            background-color: #ffd1dc; /* pastel pink color */
+        }
+        
+     h1 {
+        font-family: "Times New Roman", serif;
+        font-weight: bold;
+    }
+    </style>
+</head>
+<body>
+    
+
+</body>
+</html>
